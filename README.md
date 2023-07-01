@@ -14,5 +14,6 @@ I thrive on creating intuitive and visually appealing web experiences that are b
 # Examples of work
 <img src ="https://github.com/HudsonAdjetey/mobile/blob/main/mobile.jpg" width ="256" />
 
+# Let's Connect
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/HudsonAdjetey)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/HudsonAdjetey)  
 
