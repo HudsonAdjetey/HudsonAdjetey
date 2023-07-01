@@ -1,5 +1,5 @@
 ![Design and Development]!
-[Header](./(https://github.com/HudsonAdjetey/banner/blob/main/github-header-image.png))
+<img src ="https://github.com/HudsonAdjetey/banner/blob/main/github-header-image.png" width= "100%" />
 
 # Emmanuel Hudson
 
