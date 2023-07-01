@@ -11,7 +11,7 @@ I thrive on creating intuitive and visually appealing web experiences that are b
 * 🐍 Python
 * 💡MySQL
 
-# Work Examples
+##  Work Examples
 <img src = "https://github.com/HudsonAdjetey/pi/blob/main/Screenshot%202023-06-15%20154939.png" width= "300" /> <img src = "https://github.com/HudsonAdjetey/pi/blob/main/Screenshot%202023-06-13%20154247.png" width= "300" />
 
 
