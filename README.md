@@ -1,5 +1,5 @@
 ![Design and Development]!
-[Header](./your-header-image-name.png)
+[Header](./[your-header-image-name.png](https://github.com/HudsonAdjetey/banner/blob/main/github-header-image.png))
 
 # Emmanuel Hudson
 
