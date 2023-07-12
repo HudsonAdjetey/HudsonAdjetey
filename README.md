@@ -1,4 +1,4 @@
-<img src ="https://github.com/HudsonAdjetey/ban/blob/main/github-header-image%20(1).png" width= "100%" />
+<img src ="https://github.com/HudsonAdjetey/banner1/blob/main/github-header-image%20(2).png" width= "100%" />
 
 # Emmanuel Hudson
 
