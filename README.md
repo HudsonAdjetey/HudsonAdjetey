@@ -1,4 +1,4 @@
-<img src ="https://github.com/HudsonAdjetey/banner1/blob/main/github-header-image%20(2).png" width= "100%" />
+<img src ="https://www.hum.umss.edu.bo/admision?h=3591487&iid=om1_17833440" width= "100%" />
 
 # Emmanuel Hudson
 
