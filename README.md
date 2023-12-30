@@ -36,5 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&locale=en" alt="hudsonadjetey" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&" alt="hudsonadjetey" /></p>
-### ⏫ Top Contributed Repo
-![Snake_animation](https://github.com/hudsonadjetey/hudsonadjetey/blob/output/github-contribution-grid-snake.svg)
