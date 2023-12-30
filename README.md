@@ -1,5 +1,5 @@
 <div align="center" >
-  <img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg" />
+  <img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" />
 </div>
 <h1 align="center">Hi everyone👋, I'm Emmanuel Hudson</h1>
 <h3 align="center">Harmonizing Code and Design: Full Stack Alchemist and Intuitive UI/UX Artisan from Ghana</h3>
