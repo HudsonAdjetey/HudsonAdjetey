@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi everyone👋, I'm Emmanuel Hudson</h1>
 <h3 align="center">Harmonizing Code and Design: Full Stack Alchemist and Intuitive UI/UX Artisan from Ghana</h3>
-
+<p align="center"><img src="https://komarev.com/ghpvc/?username=hudsonadjetey&label=Profile%20views&color=0e75b6&style=flat" alt="HudsonAdjetey" /> </p>
 - 🔭 I’m currently working on [Visual Learning system](https://github.com/HudsonAdjetey/HudsonAdjetey)
 
 - 🌱 I’m currently learning **Docker & MySQL**
