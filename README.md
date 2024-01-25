@@ -1,3 +1,25 @@
+<h1 align="center">Hi everyone👋, I'm Emmanuel Hudson</h1>
+<h3 align="center">Harmonizing Code and Design: Full Stack Alchemist and Intuitive UI/UX Artisan from Ghana</h3>
+
+- 🔭 I’m currently working on [Visual Learning system](https://github.com/HudsonAdjetey/HudsonAdjetey)
+
+- 🌱 I’m currently learning **Docker & MySQL**
+
+- 👯 I’m looking to collaborate on **any software projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/HudsonAdjetey/HudsonAdjetey](https://github.com/HudsonAdjetey/HudsonAdjetey)
+
+- 💬 Ask me about **react, express and tailwind**
+
+- 📫 How to reach me **adjetey545@gmail.com**
+
+- 📄 Know about my experiences [w](w)
+
+- ⚡ Fun fact **Bridges the gap between technical and non-technical stakeholders effortlessly. Adept at translating complex technical concepts into understandable language for diverse audiences.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/adjeteyhudson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="adjeteyhudson" height="30" width="40" /></a>
 <div align="center" >
   <img src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" />
 </div>
