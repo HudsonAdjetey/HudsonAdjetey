@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **adjetey545@gmail.com**
 
-- 📄 Know about my experiences [w](https://hudson-swifttech.onrender.com/)
+- 📄 Know about my experiences [Emmanuel Adjetey](https://hudson-swifttech.onrender.com/)
 
 - ⚡ Fun fact **Bridges the gap between technical and non-technical stakeholders effortlessly. Adept at translating complex technical concepts into understandable language for diverse audiences.**
 
