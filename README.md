@@ -42,8 +42,8 @@
 <hr />
 <h2 align="center">Stats and Streaks 🏎️</h2>
 <div align="center">
-    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&" alt="GitHub Streak" />
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&locale=en" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&" alt="GitHub Streak" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&locale=en" alt="GitHub Stats" />
     <br/><br/> <!-- Adding line breaks for vertical spacing -->
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonadjetey&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
