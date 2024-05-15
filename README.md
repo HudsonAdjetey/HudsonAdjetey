@@ -39,6 +39,8 @@
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,mongodb,mysql" /><br>
 </div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hudsonadjetey&show_icons=true&locale=en&layout=compact" alt="hudsonadjetey" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&locale=en" alt="hudsonadjetey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&" alt="hudsonadjetey" /></p>
 <br/>
 <hr/>
