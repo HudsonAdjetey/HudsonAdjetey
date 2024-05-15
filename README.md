@@ -17,14 +17,14 @@
  
  🌱 I’m currently learning **Docker, Supabase, AWS**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/hudsonadjetey/hudsonadjetey/issues)**
+💬 Ask me about **Node.js, React, Firebase, MongoDb... or anything [here](https://github.com/hudsonadjetey/hudsonadjetey/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **Bridges the gap between technical and non-technical stakeholders effortlessly. Adept at translating complex technical concepts into understandable language for diverse audiences**
 
  </div>
  
 <div align="center"> 
-  <a href="mailto:pedro.sales.muniz@gmail.com">
+  <a href="mailto:hudson.adjetey.adjetey545@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
