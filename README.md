@@ -1,4 +1,43 @@
-<h2 align="center">🚀 Industry Experience</h2>
+<h2 align="center">🌐 Tech Universe</h2>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width="100%">
+</div>
+
+<br/>
+
+<h2 align="center">⚡ Fun Facts About Me</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/🧩-0078D7?style=for-the-badge" alt="Puzzle" />
+      </td>
+      <td>
+        I can solve a Rubik's cube in under 2 minutes!
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/💻-0078D7?style=for-the-badge" alt="Computer" />
+      </td>
+      <td>
+        I've written code in 10 different programming languages!
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://img.shields.io/badge/📚-0078D7?style=for-the-badge" alt="Books" />
+      </td>
+      <td>
+        I read at least one technical book every month to stay updated with best practices.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><h2 align="center">🚀 Industry Experience</h2>
 
 <div align="center">
   <table>
