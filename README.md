@@ -1,13 +1,71 @@
-# <div align="center">![Emmanuel Hudson](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=FF00F7&center=true&vCenter=true&width=600&height=80&duration=4000&lines=EMMANUEL+HUDSON;SOFTWARE+ARCHITECT;WEB+DEVELOPER;TECH+INNOVATOR)</div>
+<h2 align="center">🚀 Industry Experience</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><b>2023 - Present</b></td>
+      <td>
+        <b>Fintech</b> - Building secure payment processing systems with Node.js and React
+        <br/>
+        <i>Impact: Processed over $2M in transactions with 99.9% uptime</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>2021 - 2023</b></td>
+      <td>
+        <b>E-Commerce</b> - Developed online marketplace platforms with MERN stack
+        <br/>
+        <i>Impact: Served 50K+ monthly active users with 30% YoY growth</i>
+      </td>
+    </tr>
+    <tr>
+      <td align="center"><b>2019 - 2021</b></td>
+      <td>
+        <b>Healthcare</b> - Created patient management systems with Python and React
+        <br/>
+        <i>Impact: Reduced administrative workload by 40% for healthcare providers</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/><h2 align="center">🧠 Development Principles</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/1-0078D7?style=for-the-badge" alt="1" /></td>
+      <td><b>Test-Driven Development</b> - Writing tests before code ensures reliability and maintainability</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/2-0078D7?style=for-the-badge" alt="2" /></td>
+      <td><b>Clean Architecture</b> - Separation of concerns for scalable, adaptable applications</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/3-0078D7?style=for-the-badge" alt="3" /></td>
+      <td><b>User-Centered Design</b> - Building software that solves real user problems elegantly</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/4-0078D7?style=for-the-badge" alt="4" /></td>
+      <td><b>Continuous Learning</b> - Staying current with emerging technologies and best practices</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/5-0078D7?style=for-the-badge" alt="5" /></td>
+      <td><b>Pragmatic Programming</b> - Finding the right balance between perfection and practicality</td>
+    </tr>
+  </table>
+</div>
+
+<br/># <div align="center">![Emmanuel Hudson](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=00FFFF&center=true&vCenter=true&width=600&height=80&duration=4000&lines=EMMANUEL+HUDSON;SOFTWARE+ARCHITECT;WEB+DEVELOPER;TECH+INNOVATOR)</div>
 
 <div align="center">
   <div style="margin-bottom: 20px;">
     <svg width="600" height="130" xmlns="http://www.w3.org/2000/svg">
-      <rect width="600" height="130" fill="#2b213a" rx="10" ry="10"/>
-      <text x="50%" y="50%" font-family="'Courier New', monospace" font-size="16" fill="#ff00f7" text-anchor="middle" dominant-baseline="middle">
+      <rect width="600" height="130" fill="#1a1a2e" rx="10" ry="10"/>
+      <text x="50%" y="50%" font-family="'Courier New', monospace" font-size="16" fill="#00FFFF" text-anchor="middle" dominant-baseline="middle">
         A passionate software developer crafting digital solutions from Ghana 🇬🇭
       </text>
-      <g transform="translate(10, 10)" fill="none" stroke="#ff00f7" stroke-width="1">
+      <g transform="translate(10, 10)" fill="none" stroke="#00FFFF" stroke-width="1">
         <path d="M0,0 L580,0 L580,110 L0,110 Z" />
       </g>
     </svg>
@@ -16,16 +74,16 @@
 
 <div align="center">
   <a href="mailto:adjetey545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-FF00F7?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0078D7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/hudsonadjetey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-FF00F7?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0078D7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hudson-io.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-FF00F7?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Twitter-0078D7?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -72,17 +130,40 @@
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </div>
 
+<h2 align="center">🏆 GitHub Achievements</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hudsonadjetey&theme=algolia&column=7&margin-w=15&margin-h=15" width="100%" alt="GitHub Trophies" />
+</div>
+
+<h2 align="center">🔧 My Developer Workspace</h2>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/MacBook_Pro-0078D7?style=for-the-badge&logo=apple&logoColor=white" alt="MacBook Pro" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Chrome-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome" />
+  <img src="https://img.shields.io/badge/Terminal-0078D7?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
+  <img src="https://img.shields.io/badge/GitHub-0078D7?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Figma-0078D7?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</div>
+
 <br/>
+
+<h2 align="center">📈 Contribution Activity</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hudsonadjetey&theme=react-dark&hide_border=true&color=00FFFF&line=0078D7&point=00FFFF" width="100%" alt="Activity Graph" />
+</div>
 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10&ring_color=ff00f7&card_width=450" alt="stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=synthwave&border_radius=10&ring_color=ff00f7&fire=ff00f7&currStreakLabel=ff00f7" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=github_dark&rank_icon=github&border_radius=10&ring_color=00FFFF&card_width=450" alt="stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=github_dark&border_radius=10&ring_color=00FFFF&fire=00FFFF&currStreakLabel=00FFFF" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=synthwave&border_radius=10" alt="most used languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=github_dark&border_radius=10" alt="most used languages" />
 </div>
 
 <br/>
@@ -159,10 +240,10 @@
 </div>
 
 ```
-Frontend Development   ███████████████████░░░   90% ⚡
-Backend Development    ██████████████████░░░░   85% 🔥
+Frontend Development   ███████████████████░░░   90% 🔵
+Backend Development    ██████████████████░░░░   85% 🌊
 Database Management    ███████████████░░░░░░░   75% 💾
-UI/UX Design           ████████████░░░░░░░░░░   60% 🎨
+UI/UX Design           ████████████░░░░░░░░░░   60% 🖌️
 DevOps                 ██████████░░░░░░░░░░░░   50% 🚀
 Cloud Technologies     ████████░░░░░░░░░░░░░░   40% ☁️
 ```
@@ -202,26 +283,56 @@ Cloud Technologies     ████████░░░░░░░░░░░
 <h2 align="center">🧠 Code Mindset</h2>
 
 <div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto;">
-  <blockquote style="border-left: 4px solid #8957e5; padding-left: 20px; margin: 0; font-style: italic;">
-    <p>"Clean code always looks like it was written by someone who cares."</p>
+  <blockquote style="border-left: 4px solid #0078D7; padding-left: 20px; margin: 0; font-style: italic;">
+    <p>"First, solve the problem. Then, write the code."</p>
   </blockquote>
-  <p>I write code not just to solve problems, but to create elegant, maintainable solutions that stand the test of time.</p>
+  <p>I build software that is robust, scalable, and engineered with excellence.</p>
 </div>
 
 <br/>
 
-<h2 align="center">🌐 Tech Universe</h2>
+<h2 align="center">📝 Latest Blog Posts</h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Tech Universe" width="100%">
+  <table>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>Optimizing React Performance: Advanced Techniques</b>
+        </a>
+        <br/>
+        <i>Learn how to improve React app performance with code splitting, memoization and more.</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>Building Scalable Node.js APIs: Best Practices</b>
+        </a>
+        <br/>
+        <i>A comprehensive guide to creating robust and maintainable Node.js backends.</i>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="#" target="_blank">
+          <b>MongoDB vs. PostgreSQL: Choosing the Right Database</b>
+        </a>
+        <br/>
+        <i>An in-depth comparison to help you select the best database for your project.</i>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=0078D7&style=for-the-badge&label=VISITORS" alt="Profile views" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=FF00F7&style=for-the-badge&label=VISITORS" alt="Profile views" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00F7&height=120&section=footer&text=Connect%20with%20me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=80" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D7&height=120&section=footer&text=Connect%20with%20me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
 
 <div align="center">
