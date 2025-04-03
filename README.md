@@ -78,7 +78,44 @@
   <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=react&border_radius=10" alt="most used languages" />
 </div>
 
-<h2 align="center">👨‍💻 Featured Projects</h2>
+<h2 align="center">🐍 Contribution Snake</h2>
+<div align="center">
+  <img alt="Snake Animation" src="https://github.com/hudsonadjetey/hudsonadjetey/blob/output/github-contribution-grid-snake.svg"/>
+</div>
+
+<div align="center">
+  <h3>⚡ Get a Contribution Snake Like This</h3>
+  <p>To get this cool contribution snake on your own profile, create a repo with this workflow:</p>
+  
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule: # Execute every 12 hours
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v7
+        with:
+          branch: output
+          message: 'Generate Snake Animation'
+```
+</div>
+
+<h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
   <table>
@@ -87,7 +124,7 @@
         <h3 align="center">Marketplace Project</h3>
         <div align="center">
           <a href="https://github.com/hudsonadjetey/marketplace" target="_blank">
-            <img src="https://i.imgur.com/ZrcfJIA.png" width="100%" alt="Marketplace Project"/>
+            <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Marketplace Project"/>
           </a>
           <br>
           <br>
@@ -106,7 +143,7 @@
         <h3 align="center">Portfolio Website</h3>
         <div align="center">
           <a href="https://hudson-io.vercel.app" target="_blank">
-            <img src="https://i.imgur.com/vMFQaOt.png" width="100%" alt="Portfolio Website"/>
+            <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Portfolio Website"/>
           </a>
           <br>
           <br>
