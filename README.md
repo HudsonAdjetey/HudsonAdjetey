@@ -37,26 +37,21 @@
 
 <h2 align="center">🛠️ Technologies & Tools</h2>
 
-<div align="center">
-  <h3>Frontend</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" />
-  
-  <h3>Backend</h3>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  
-  <h3>Tools & Others</h3>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
@@ -70,93 +65,74 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=react&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=radical&border_radius=10" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=react&border_radius=10" alt="most used languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=radical&border_radius=10" alt="most used languages" />
 </div>
 
-<h2 align="center">🐍 Contribution Snake</h2>
-<div align="center">
-  <img alt="Snake Animation" src="https://github.com/hudsonadjetey/hudsonadjetey/blob/output/github-contribution-grid-snake.svg"/>
-</div>
+<br/>
 
-<div align="center">
-  <h3>⚡ Get a Contribution Snake Like This</h3>
-  <p>To get this cool contribution snake on your own profile, create a repo with this workflow:</p>
-  
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule: # Execute every 12 hours
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-
-      - name: Push to GitHub
-        uses: EndBug/add-and-commit@v7
-        with:
-          branch: output
-          message: 'Generate Snake Animation'
-```
-</div>
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center">⚡ Coding Journey Timeline</h2>
 
 <div align="center">
   <table>
     <tr>
-      <td width="50%">
-        <h3 align="center">Marketplace Project</h3>
-        <div align="center">
-          <a href="https://github.com/hudsonadjetey/marketplace" target="_blank">
-            <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/web.gif" width="100%" alt="Marketplace Project"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/hudsonadjetey/marketplace" target="_blank">
-              <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://demo-marketplace.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-            </a>
-          </p>
-          <p><strong>Node.js, React, MongoDB</strong> - A full-featured marketplace platform connecting buyers and sellers.</p>
-        </div>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2019-333333?style=for-the-badge" alt="2019" />
       </td>
-      <td width="50%">
-        <h3 align="center">Portfolio Website</h3>
-        <div align="center">
-          <a href="https://hudson-io.vercel.app" target="_blank">
-            <img src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="100%" alt="Portfolio Website"/>
-          </a>
-          <br>
-          <br>
-          <p>
-            <a href="https://github.com/hudsonadjetey/portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" />
-            </a>
-            <a href="https://hudson-io.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
-            </a>
-          </p>
-          <p><strong>React, Tailwind CSS</strong> - Personal portfolio showcasing my projects and skills.</p>
-        </div>
+      <td>
+        <strong>Started Coding Journey</strong> - First dived into HTML, CSS, and JavaScript
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2020-333333?style=for-the-badge" alt="2020" />
+      </td>
+      <td>
+        <strong>Frontend Focus</strong> - Mastered React.js and modern CSS frameworks
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2021-333333?style=for-the-badge" alt="2021" />
+      </td>
+      <td>
+        <strong>Backend Development</strong> - Built APIs with Node.js, Express & MongoDB
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2022-333333?style=for-the-badge" alt="2022" />
+      </td>
+      <td>
+        <strong>Full Stack Projects</strong> - Created end-to-end web applications
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2023-333333?style=for-the-badge" alt="2023" />
+      </td>
+      <td>
+        <strong>Advanced Technologies</strong> - Explored TypeScript, GraphQL & Firebase
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2024-333333?style=for-the-badge" alt="2024" />
+      </td>
+      <td>
+        <strong>DevOps & Cloud</strong> - Learning Docker, AWS & CI/CD pipelines
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/2025-5C42F4?style=for-the-badge" alt="2025" />
+      </td>
+      <td>
+        <strong>Future Goals</strong> - Mastering cloud architecture & contributing to open source
       </td>
     </tr>
   </table>
@@ -164,17 +140,50 @@ jobs:
 
 <br/>
 
+<h2 align="center">🌟 Skill Strength</h2>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=blue&style=for-the-badge" alt="Profile views" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
 </div>
 
-<h2 align="center">✉️ Contact</h2>
+```
+Frontend Development   ███████████████████░░░   90%
+Backend Development    ██████████████████░░░░   85%
+Database Management    ███████████████░░░░░░░   75%
+UI/UX Design           ████████████░░░░░░░░░░   60%
+DevOps                 ██████████░░░░░░░░░░░░   50%
+Cloud Technologies     ████████░░░░░░░░░░░░░░   40%
+```
+
+<br/>
+
+<h2 align="center">🔄 My Development Workflow</h2>
 
 <div align="center">
-  <p>Feel free to reach out to me for collaborations or just a chat!</p>
-  <p>📧 Email: adjetey545@gmail.com</p>
-  <p>💼 LinkedIn: <a href="https://linkedin.com/in/hudsonadjetey">linkedin.com/in/hudsonadjetey</a></p>
-  <p>🌐 Portfolio: <a href="https://hudson-io.vercel.app">hudson-io.vercel.app</a></p>
+  <img src="https://mermaid.ink/img/pako:eNptkc9uwjAMxl8l8mmTQGXrJAQHTqOXwW3jkLopPUBIXRpahCpa3nuXFKbR7WTr-_wn2_kATStQQGgbL51xne5QrZU7GdeC8sJLe0O7mvQv6LYyJZuB9dxcw3prFvDhB15qWNKpTJpOVwJbSN_0d-CwOJcZAGg-NU22dYgUV01dWwUO3KOgC5wSIRZnpOKklx4Ju-oH-6KaRbI7DShL9rqT5JwCUUQzGDQi58kPymIoEnshY0_3DPimRPGMV8xJJkD89Vv8F5_zVDSNdxFnqU9YMQ3d-YMCr0cfJy_M8vQNpZWV2Gh3MFJ90o27R0UoHDlcqAe94l_Q0iHHYkXxC1-ZhvU" alt="Development Workflow">
+</div>
+
+<br/>
+
+<h2 align="center">⭐ Featured Repository</h2>
+
+<div align="center">
+  <a href="https://github.com/hudsonadjetey/marketplace">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hudsonadjetey&repo=marketplace&theme=radical" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <h2>🎵 Spotify Currently Playing</h2>
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
+    <img src="https://novatorem-ruddy-six.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
 </div>
 
 <div align="center">
