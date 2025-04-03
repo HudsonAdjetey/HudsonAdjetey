@@ -1,19 +1,31 @@
-# <div align="center">![Emmanuel Hudson](https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Emmanuel+Hudson!;)</div>
+# <div align="center">![Emmanuel Hudson](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=40&color=FF00F7&center=true&vCenter=true&width=600&height=80&duration=4000&lines=EMMANUEL+HUDSON;SOFTWARE+ARCHITECT;WEB+DEVELOPER;TECH+INNOVATOR)</div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="150px" />
-  <h3>A passionate software developer from Ghana 🇬🇭</h3>
+  <div style="margin-bottom: 20px;">
+    <svg width="600" height="130" xmlns="http://www.w3.org/2000/svg">
+      <rect width="600" height="130" fill="#2b213a" rx="10" ry="10"/>
+      <text x="50%" y="50%" font-family="'Courier New', monospace" font-size="16" fill="#ff00f7" text-anchor="middle" dominant-baseline="middle">
+        A passionate software developer crafting digital solutions from Ghana 🇬🇭
+      </text>
+      <g transform="translate(10, 10)" fill="none" stroke="#ff00f7" stroke-width="1">
+        <path d="M0,0 L580,0 L580,110 L0,110 Z" />
+      </g>
+    </svg>
+  </div>
 </div>
 
 <div align="center">
   <a href="mailto:adjetey545@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-FF00F7?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/hudsonadjetey" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-FF00F7?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://hudson-io.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-FF00F7?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-FF00F7?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
 
@@ -65,12 +77,12 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="stats" />
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=radical&border_radius=10" alt="streak stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=hudsonadjetey&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10&ring_color=ff00f7&card_width=450" alt="stats" />
+  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=hudsonadjetey&theme=synthwave&border_radius=10&ring_color=ff00f7&fire=ff00f7&currStreakLabel=ff00f7" alt="streak stats" />
 </div>
 
 <div align="center">
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=radical&border_radius=10" alt="most used languages" />
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hudsonadjetey&layout=compact&theme=synthwave&border_radius=10" alt="most used languages" />
 </div>
 
 <br/>
@@ -147,12 +159,12 @@
 </div>
 
 ```
-Frontend Development   ███████████████████░░░   90%
-Backend Development    ██████████████████░░░░   85%
-Database Management    ███████████████░░░░░░░   75%
-UI/UX Design           ████████████░░░░░░░░░░   60%
-DevOps                 ██████████░░░░░░░░░░░░   50%
-Cloud Technologies     ████████░░░░░░░░░░░░░░   40%
+Frontend Development   ███████████████████░░░   90% ⚡
+Backend Development    ██████████████████░░░░   85% 🔥
+Database Management    ███████████████░░░░░░░   75% 💾
+UI/UX Design           ████████████░░░░░░░░░░   60% 🎨
+DevOps                 ██████████░░░░░░░░░░░░   50% 🚀
+Cloud Technologies     ████████░░░░░░░░░░░░░░   40% ☁️
 ```
 
 <br/>
@@ -165,25 +177,51 @@ Cloud Technologies     ████████░░░░░░░░░░░
 
 <br/>
 
-<h2 align="center">⭐ Featured Repository</h2>
+<h2 align="center">⭐ Current Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/hudsonadjetey/marketplace">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=hudsonadjetey&repo=marketplace&theme=radical" />
-  </a>
+  <div style="display: inline-block; text-align: center; width: 45%;">
+    <h3>🛒 Marketplace Platform</h3>
+    <a href="https://github.com/hudsonadjetey/marketplace">
+      <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <p>A full-stack e-commerce marketplace built with React, Node.js, and MongoDB</p>
+  </div>
+  
+  <div style="display: inline-block; text-align: center; width: 45%;">
+    <h3>🌐 Portfolio Site</h3>
+    <a href="https://hudson-io.vercel.app">
+      <img src="https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+    </a>
+    <p>Personal portfolio showcasing my work, built with React and Tailwind CSS</p>
+  </div>
 </div>
 
 <br/>
 
+<h2 align="center">🧠 Code Mindset</h2>
+
+<div align="center" style="background-color: #0D1117; padding: 20px; border-radius: 10px; width: 80%; margin: 0 auto;">
+  <blockquote style="border-left: 4px solid #8957e5; padding-left: 20px; margin: 0; font-style: italic;">
+    <p>"Clean code always looks like it was written by someone who cares."</p>
+  </blockquote>
+  <p>I write code not just to solve problems, but to create elegant, maintainable solutions that stand the test of time.</p>
+</div>
+
+<br/>
+
+<h2 align="center">🌐 Tech Universe</h2>
+
 <div align="center">
-  <h2>🎵 Spotify Currently Playing</h2>
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem-ruddy-six.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
-  </a>
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Tech Universe" width="100%">
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hudsonadjetey&color=FF00F7&style=for-the-badge&label=VISITORS" alt="Profile views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF00F7&height=120&section=footer&text=Connect%20with%20me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=80" width="100%"/>
 </div>
 
 <div align="center">
