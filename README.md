@@ -121,7 +121,7 @@
   <a href="https://hudson-io.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0078D7?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+  <a href="https://twitter.com/hudsonadjetey" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-0078D7?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </div>
